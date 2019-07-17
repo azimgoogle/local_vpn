@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">W3VPN</string>
+    <string name="start_vpn">Start VPN</string>
+    <string name="no_network_information">No active network connection in your device, please connect to network and start again.</string>
+
+    <string name="quit">Quit</string>
+    <string name="try_again">Try again</string>
+</resources>
